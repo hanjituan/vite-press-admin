@@ -1,3 +1,6 @@
-# vite-vq8ks1
+### 尝试使用vitepress 搭建属于自己的一个网站
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/hanjituan/vite-vq8ks1)
+ - 新建仓库
+ - 仓库名称
+ - 发布到GitHub, 通过page来实现
+ - 自己尝试写插件, 知识点等
