@@ -28,7 +28,7 @@ export default defineConfig({
         // text: 'Guide',
         items: [
           { text: 'Example', link: '/example' },
-          { text: 'Test', link: '/test' },
+          { text: 'y-table', link: '/element-table' },
           // ...
         ],
       },
